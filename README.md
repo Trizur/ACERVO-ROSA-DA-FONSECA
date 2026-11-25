@@ -2,6 +2,11 @@
 
 Sistema de gerenciamento e interface CRUD para o banco de dados do Acervo Histórico Rosa da Fonseca, desenvolvido em Python e PostgreSQL como projeto prático para a disciplina de **Fundamentos de Bancos de Dados** da **Universidade Federal do Ceará (UFC)**.
 
+O projeto surge da necessidade de organizar, preservar e democratizar o acesso à memória histórica do período da ditadura militar brasileira (1964-1985), trazendo foco para o Ceará e cidades do sertão central. Parte dos documentos desse período encontram-se dispersos, em estado de degradação física ou sujeita ao esquecimento. 
+
+A aplicação atua como um acervo digital comunitário e colaborativo, preenchendo a lacuna entre a produção acadêmica e o público geral. Ela centraliza documentos, mídias e relatos em uma plataforma de acesso livre, estruturada de forma a conectar personagens históricos, eventos e locais de memória. A moderação realizada por historiadores e pesquisadores garante a veracidade científica das informações, enquanto a contribuição aberta da comunidade permite resgatar narrativas locais que frequentemente ficam de fora dos livros didáticos tradicionais.  
+
+
 ## Tecnologias utilizadas
 * **Linguagem:** Python 3.x
 * **Banco de Dados:** PostgreSQL
