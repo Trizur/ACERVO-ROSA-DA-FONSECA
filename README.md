@@ -31,5 +31,5 @@ Por se tratar de um projeto acadêmico, o repositório serve principalmente como
 
 ## Autores
 * **Ana Beatriz Pereira Capistrano** – [GitHub](https://github.com/Trizur)
-* **Milena de Souza Mesquita** – [GitHub](https://github.com)
+* **Milena de Sousa Mesquita** – [GitHub](https://github.com/mil-dsm)
 
