@@ -30,6 +30,6 @@ Por se tratar de um projeto acadêmico, o repositório serve principalmente como
 5. Abra um *Pull Request*
 
 ## Autores
-* **Ana Beatriz Pereira Capistrano** – [GitHub](https://github.com)
+* **Ana Beatriz Pereira Capistrano** – [GitHub](https://github.com/Trizur)
 * **Milena de Souza Mesquita** – [GitHub](https://github.com)
 
